@@ -1,0 +1,18 @@
+.app-container {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.check-button {
+  margin-top: 20px;
+  padding: 10px 15px;
+  background-color: blue;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.check-button:hover {
+  background-color: darkblue;
+}
